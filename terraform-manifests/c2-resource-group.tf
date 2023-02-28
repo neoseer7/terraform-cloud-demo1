@@ -3,6 +3,6 @@ resource "azurerm_resource_group" "myrg" {
   name = "myrg-1"
   location = "East US"
   tags = {
-    "tag1" = "hashi"
+    "tag1" = "hashiff"
   }
 }
